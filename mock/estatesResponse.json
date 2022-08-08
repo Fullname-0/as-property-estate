@@ -1,0 +1,261 @@
+{
+    "status": 200,
+    "data": [
+        {
+            "id": 1,
+            "locale": "en",
+            "published_at": "2021-10-13T13:00:59.649Z",
+            "created_at": "2021-10-13T11:57:00.499Z",
+            "updated_at": "2021-10-15T17:46:55.310Z",
+            "title": "Bruce Wayne's Residence",
+            "slug": "bruce-wayne-s-residence",
+            "search_type": {
+                "id": 1,
+                "name": "Domy",
+                "published_at": "2021-10-15T17:43:22.204Z",
+                "created_at": "2021-10-15T17:43:20.136Z",
+                "updated_at": "2021-10-15T17:43:22.229Z"
+            },
+            "general": {
+                "id": 2,
+                "title": null,
+                "price": 50000000,
+                "description": "Wayne Manor Estate is a fictional American mansion appearing in American comic books published by DC Comics. It is the personal residence of Bruce Wayne, who is also the superhero Batman. <br><br>\n\nThe residence is depicted as a large mansion on the outskirts of Gotham City and is maintained by the Wayne family's butler, Alfred Pennyworth. While the earliest stories showed Bruce Wayne buying the house himself, by the 1950s at the latest, retroactive continuity established that the manor had belonged to the Wayne family for several generations. Along with serving as a personal residence, the mansion sits above the Batcave, which Batman uses as his secret headquarters. The vast majority of DC Comics references place Wayne Manor just outside of Gotham City in the state of New Jersey.\n<br><br>\nThe manor acts as a home base and representation of Bruce's old wealth life, despite matching the Gothic architecture present in Gotham. For live-action films, English country house locations in Nottinghamshire, Hertfordshire, and Buckinghamshire, as well as Stevenson Taylor Hall in New York, have been used to depict Wayne Manor.\n",
+                "area": 1500,
+                "address": {
+                    "id": 2,
+                    "city": {
+                        "id": 1,
+                        "name": "Poznań",
+                        "published_at": "2021-10-14T13:52:14.063Z",
+                        "created_at": "2021-10-14T13:52:04.625Z",
+                        "updated_at": "2021-10-14T13:52:14.083Z"
+                    },
+                    "district": "Batman Dist",
+                    "zipCode": "66-666",
+                    "street": "Batman Street",
+                    "buildingNumber": "666",
+                    "localNumber": "6"
+                }
+            },
+            "details": [
+                {
+                    "__component": "meta.localdetails",
+                    "id": 1,
+                    "roomsNumber": 10,
+                    "buildYear": 2010,
+                    "buildingType": {
+                        "id": 3,
+                        "Name": null,
+                        "locale": "en",
+                        "published_at": "2021-10-14T14:03:56.752Z",
+                        "created_at": "2021-10-14T14:03:54.980Z",
+                        "updated_at": "2021-10-15T17:45:36.352Z",
+                        "name": "jednorodzinny"
+                    },
+                    "market": {
+                        "id": 1,
+                        "name": "wtórny",
+                        "locale": "en",
+                        "published_at": "2021-10-13T11:55:14.730Z",
+                        "created_at": "2021-10-13T11:55:12.786Z",
+                        "updated_at": "2021-10-13T11:55:14.751Z"
+                    }
+                }
+            ],
+            "coverImage": {
+                "id": 19,
+                "name": "8b69a59fa4808ed2a55a1d9b778a6b49.png",
+                "alternativeText": "",
+                "caption": "",
+                "width": 1127,
+                "height": 635,
+                "formats": {
+                    "large": {
+                        "ext": ".png",
+                        "url": "/batcave1.png",
+                        "hash": "large_8b69a59fa4808ed2a55a1d9b778a6b49_2bce34df00",
+                        "mime": "image/png",
+                        "name": "large_8b69a59fa4808ed2a55a1d9b778a6b49.png",
+                        "path": null,
+                        "size": 1499.49,
+                        "width": 1000,
+                        "height": 563
+                    },
+                    "small": {
+                        "ext": ".png",
+                        "url": "/batcave1.png",
+                        "hash": "small_8b69a59fa4808ed2a55a1d9b778a6b49_2bce34df00",
+                        "mime": "image/png",
+                        "name": "small_8b69a59fa4808ed2a55a1d9b778a6b49.png",
+                        "path": null,
+                        "size": 384.01,
+                        "width": 500,
+                        "height": 282
+                    },
+                    "medium": {
+                        "ext": ".png",
+                        "url": "/batcave1.png",
+                        "hash": "medium_8b69a59fa4808ed2a55a1d9b778a6b49_2bce34df00",
+                        "mime": "image/png",
+                        "name": "medium_8b69a59fa4808ed2a55a1d9b778a6b49.png",
+                        "path": null,
+                        "size": 851.66,
+                        "width": 750,
+                        "height": 423
+                    },
+                    "thumbnail": {
+                        "ext": ".png",
+                        "url": "/batcave1.png",
+                        "hash": "thumbnail_8b69a59fa4808ed2a55a1d9b778a6b49_2bce34df00",
+                        "mime": "image/png",
+                        "name": "thumbnail_8b69a59fa4808ed2a55a1d9b778a6b49.png",
+                        "path": null,
+                        "size": 94.75,
+                        "width": 245,
+                        "height": 138
+                    }
+                },
+                "hash": "8b69a59fa4808ed2a55a1d9b778a6b49_2bce34df00",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 1863.04,
+                        "url": "/batcave1.png",
+                        "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "created_at": "2021-10-15T08:59:33.793Z",
+                "updated_at": "2021-10-15T08:59:33.830Z"
+            },
+            "localizations": []
+        },
+                {
+                    "id": 1,
+                    "locale": "en",
+                    "published_at": "2021-10-13T13:00:59.649Z",
+                    "created_at": "2021-10-13T11:57:00.499Z",
+                    "updated_at": "2021-10-15T17:46:55.310Z",
+                    "title": "Bruce Wayne's Residence",
+                    "slug": "bruce-wayne-s-residence",
+                    "search_type": {
+                        "id": 1,
+                        "name": "Domy",
+                        "published_at": "2021-10-15T17:43:22.204Z",
+                        "created_at": "2021-10-15T17:43:20.136Z",
+                        "updated_at": "2021-10-15T17:43:22.229Z"
+                    },
+                    "general": {
+                        "id": 2,
+                        "title": null,
+                        "price": 50000000,
+                        "description": "Wayne Manor Estate is a fictional American mansion appearing in American comic books published by DC Comics. It is the personal residence of Bruce Wayne, who is also the superhero Batman. <br><br>\n\nThe residence is depicted as a large mansion on the outskirts of Gotham City and is maintained by the Wayne family's butler, Alfred Pennyworth. While the earliest stories showed Bruce Wayne buying the house himself, by the 1950s at the latest, retroactive continuity established that the manor had belonged to the Wayne family for several generations. Along with serving as a personal residence, the mansion sits above the Batcave, which Batman uses as his secret headquarters. The vast majority of DC Comics references place Wayne Manor just outside of Gotham City in the state of New Jersey.\n<br><br>\nThe manor acts as a home base and representation of Bruce's old wealth life, despite matching the Gothic architecture present in Gotham. For live-action films, English country house locations in Nottinghamshire, Hertfordshire, and Buckinghamshire, as well as Stevenson Taylor Hall in New York, have been used to depict Wayne Manor.\n",
+                        "area": 1500,
+                        "address": {
+                            "id": 2,
+                            "city": {
+                                "id": 1,
+                                "name": "Poznań",
+                                "published_at": "2021-10-14T13:52:14.063Z",
+                                "created_at": "2021-10-14T13:52:04.625Z",
+                                "updated_at": "2021-10-14T13:52:14.083Z"
+                            },
+                            "district": "Batman Dist",
+                            "zipCode": "66-666",
+                            "street": "Batman Street",
+                            "buildingNumber": "666",
+                            "localNumber": "6"
+                        }
+                    },
+                    "details": [
+                        {
+                            "__component": "meta.localdetails",
+                            "id": 1,
+                            "roomsNumber": 10,
+                            "buildYear": 2010,
+                            "buildingType": {
+                                "id": 3,
+                                "Name": null,
+                                "locale": "en",
+                                "published_at": "2021-10-14T14:03:56.752Z",
+                                "created_at": "2021-10-14T14:03:54.980Z",
+                                "updated_at": "2021-10-15T17:45:36.352Z",
+                                "name": "jednorodzinny"
+                            },
+                            "market": {
+                                "id": 1,
+                                "name": "wtórny",
+                                "locale": "en",
+                                "published_at": "2021-10-13T11:55:14.730Z",
+                                "created_at": "2021-10-13T11:55:12.786Z",
+                                "updated_at": "2021-10-13T11:55:14.751Z"
+                            }
+                        }
+                    ],
+                    "coverImage": {
+                        "id": 19,
+                        "name": "8b69a59fa4808ed2a55a1d9b778a6b49.png",
+                        "alternativeText": "",
+                        "caption": "",
+                        "width": 1127,
+                        "height": 635,
+                        "formats": {
+                            "large": {
+                                "ext": ".png",
+                                "url": "/batcave1.png",
+                                "hash": "large_8b69a59fa4808ed2a55a1d9b778a6b49_2bce34df00",
+                                "mime": "image/png",
+                                "name": "large_8b69a59fa4808ed2a55a1d9b778a6b49.png",
+                                "path": null,
+                                "size": 1499.49,
+                                "width": 1000,
+                                "height": 563
+                            },
+                            "small": {
+                                "ext": ".png",
+                                "url": "/batcave1.png",
+                                "hash": "small_8b69a59fa4808ed2a55a1d9b778a6b49_2bce34df00",
+                                "mime": "image/png",
+                                "name": "small_8b69a59fa4808ed2a55a1d9b778a6b49.png",
+                                "path": null,
+                                "size": 384.01,
+                                "width": 500,
+                                "height": 282
+                            },
+                            "medium": {
+                                "ext": ".png",
+                                "url": "/batcave1.png",
+                                "hash": "medium_8b69a59fa4808ed2a55a1d9b778a6b49_2bce34df00",
+                                "mime": "image/png",
+                                "name": "medium_8b69a59fa4808ed2a55a1d9b778a6b49.png",
+                                "path": null,
+                                "size": 851.66,
+                                "width": 750,
+                                "height": 423
+                            },
+                            "thumbnail": {
+                                "ext": ".png",
+                                "url": "/batcave1.png",
+                                "hash": "thumbnail_8b69a59fa4808ed2a55a1d9b778a6b49_2bce34df00",
+                                "mime": "image/png",
+                                "name": "thumbnail_8b69a59fa4808ed2a55a1d9b778a6b49.png",
+                                "path": null,
+                                "size": 94.75,
+                                "width": 245,
+                                "height": 138
+                            }
+                        },
+                        "hash": "8b69a59fa4808ed2a55a1d9b778a6b49_2bce34df00",
+                        "ext": ".png",
+                        "mime": "image/png",
+                        "size": 1863.04,
+                        "url": "/batcave1.png",
+                        "previewUrl": null,
+                        "provider": "local",
+                        "provider_metadata": null,
+                        "created_at": "2021-10-15T08:59:33.793Z",
+                        "updated_at": "2021-10-15T08:59:33.830Z"
+                    },
+                    "localizations": []
+                }
+    ]
+}

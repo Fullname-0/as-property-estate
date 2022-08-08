@@ -1,0 +1,40 @@
+{
+    "status": 200,
+    "data":[
+        {
+            "id": 1,
+            "name": "Domy",
+            "published_at": "2021-10-15T17:43:22.204Z",
+            "created_at": "2021-10-15T17:43:20.136Z",
+            "updated_at": "2021-10-15T17:43:22.229Z"
+        },
+        {
+            "id": 2,
+            "name": "Mieszkania",
+            "published_at": "2021-10-15T17:43:30.876Z",
+            "created_at": "2021-10-15T17:43:29.387Z",
+            "updated_at": "2021-10-15T17:43:30.899Z"
+        },
+        {
+            "id": 3,
+            "name": "Komercyjne",
+            "published_at": "2021-10-15T17:43:41.555Z",
+            "created_at": "2021-10-15T17:43:39.853Z",
+            "updated_at": "2021-10-15T17:43:41.575Z"
+        },
+        {
+            "id": 4,
+            "name": "Inne",
+            "published_at": "2021-10-15T17:43:48.829Z",
+            "created_at": "2021-10-15T17:43:47.188Z",
+            "updated_at": "2021-10-15T17:43:48.851Z"
+        },
+        {
+            "id": 5,
+            "name": "Działka",
+            "published_at": "2021-10-15T17:44:13.451Z",
+            "created_at": "2021-10-15T17:44:11.765Z",
+            "updated_at": "2021-10-15T17:44:13.473Z"
+        }
+    ]
+}
